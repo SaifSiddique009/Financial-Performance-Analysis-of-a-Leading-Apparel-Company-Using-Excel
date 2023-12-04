@@ -59,6 +59,14 @@ The primary challenge addressed in this project is to comprehensively analyze an
 - Calculated key profitability metrics and revenue growth rates, providing valuable insights.
 - Created a visually appealing stacked column chart with a secondary line for EBIT%.
 
+<p align="center">
+  <img src="https://github.com/SaifSiddique009/Financial-Performance-Analysis-of-a-Leading-Apparel-Company-Using-Excel/blob/main/Adidas%20P%26L.png" width="400" />
+  <img src="https://github.com/SaifSiddique009/Financial-Performance-Analysis-of-a-Leading-Apparel-Company-Using-Excel/blob/main/Adida%20Revenue%20Breakdown_FY19%20-%20FY23.png" width="400" /> 
+</p>
+
+
+
+
 ## Key Takeaways
 
 1. **Growth Analysis:**
